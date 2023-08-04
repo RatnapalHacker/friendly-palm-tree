@@ -1,4 +1,4 @@
-# This is my first github page
+# This is my second github page
 
 I am learning git on w3school step by step.
 Just added another line 
