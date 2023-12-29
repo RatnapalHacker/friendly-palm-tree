@@ -1,4 +1,4 @@
 # This is my second github page
 
-I am learning git on w3school step by step.
+I am learning git step by step.
 Just added another line 
